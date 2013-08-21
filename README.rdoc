@@ -1,3 +1,1 @@
-# Ruby on Rails: Mi primer proyecto con repositorio
-Este es mi primer ejercicio de RoR con repositorio
-[*Proyecto miproyecone: Por Luis Miguel*](web pendiente…)
+Esta es la rama hijoone
